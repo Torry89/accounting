@@ -1,0 +1,4 @@
+.gigaide/
+.venv/
+.idea/
+dirty_main.py
